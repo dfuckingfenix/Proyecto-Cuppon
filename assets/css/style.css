@@ -1,0 +1,14 @@
+img{width: 300px;
+    height: 200px;}
+.box{background-color: blue;
+    color: white;
+    text-align: center;
+    width: 1200px;
+    padding: 20px;
+    font-size: 40px;}
+#box{background-color: blue;
+    color: white;
+    text-align: center;
+    width: 1200px;
+    padding: 20px;
+    font-size: 20px;}
